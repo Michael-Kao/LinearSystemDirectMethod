@@ -49,7 +49,7 @@ include/divisible/*
 
 build/**/*
 
-#include/*
+.vscode/*
 lib/*
 bin/*
 test/test_runner
